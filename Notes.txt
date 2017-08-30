@@ -1,0 +1,10 @@
+array is longest number + 1
+
+use a reverse for loop when adding
+
+3 arrays
+	number 1
+	number 2
+	result
+
+
